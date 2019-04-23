@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.steamsetup.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\cgr3153\\Documents\\GitHub\\Planet-SOS\\Steamsetup\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Steamsetup [Testing]"
+        }
+      }
+    }
+  ]
+}
